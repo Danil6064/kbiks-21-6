@@ -8,7 +8,7 @@ const NamePlate = () => {
   const item = items[id];
 
   console.log(item);
-  return <div className="namePlate">{item.nameItems}</div>;
+  return <div className="namePlate">{item.nameItemsTranslate}</div>;
 };
 
 export default NamePlate;
