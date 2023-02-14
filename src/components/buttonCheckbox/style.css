@@ -1,0 +1,65 @@
+.buttons__checkbox {
+    display: flex;
+
+    justify-content: space-between;
+    margin-bottom: 25px;
+    column-gap: 20px;
+    margin: 15px 20px 20px 20px;
+}
+
+.button__checkbox {
+    display: flex;
+    
+    border-radius: 30px;
+    border: 2.3px solid #303030;
+    background-color: #303030;
+    /* color: #303030; */
+    
+    height: 48px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    width: 45%;
+}
+
+.button__checkbox__text {
+    margin: 0 15px;
+    color: #F5F5F5;
+}
+
+.button__checkbox__all{
+    display: flex;
+    
+    border-radius: 30px;
+    border: 2.3px solid #303030;
+    background-color: #303030;
+
+    height: 48px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    width: 20%;
+}
+
+.button__checkbox--active {
+    background-color: #F5F5F5;
+    color: #303030;
+}
+
+.button__checkbox--active p {
+    color: #303030;
+}

@@ -1,0 +1,8 @@
+@import "./null.css";
+@import "./fonts.css";
+body {background-color: #F5F5F5;}
+
+.conteiner {
+    max-width: 1220px;
+    margin: 0 auto;
+}
