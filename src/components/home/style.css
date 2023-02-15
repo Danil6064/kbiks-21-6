@@ -31,3 +31,15 @@
     background-color: #303030;
     color: #F5F5F5;
 }
+
+@media (max-width: 620px) {
+    .item__card {
+        width: 100%;
+        height: 10%;
+    }
+
+        .home__subjectList {
+            gap: 10px;
+            margin: 20px 20px 40px 20px;
+        }
+}
