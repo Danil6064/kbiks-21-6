@@ -63,3 +63,26 @@
 .button__checkbox--active p {
     color: #303030;
 }
+
+@media (max-width: 657px) {
+    .button__checkbox__practical {
+        padding: 20px;
+    }
+}
+
+@media (max-width: 620px) {
+    .buttons__checkbox {
+    flex-direction: column;
+    row-gap: 4px;
+
+    margin: 10px 20px 10px 20px;
+    }
+    .button__checkbox {
+        width: 70%;
+        align-self: center;
+    }
+    .button__checkbox__all {
+        width: 70%;
+        align-self: center;
+    }
+}
