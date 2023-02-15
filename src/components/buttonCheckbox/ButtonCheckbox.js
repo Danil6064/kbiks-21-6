@@ -47,7 +47,7 @@ const ButtonCheckbox = () => {
         }`}
       >
         <div>
-          <p className="button__checkbox__text button__checkbox__lab">
+          <p className="button__checkbox__text button__checkbox__practical">
             практичні роботи
           </p>
         </div>
