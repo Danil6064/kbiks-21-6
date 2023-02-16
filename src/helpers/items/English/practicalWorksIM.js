@@ -1,11 +1,12 @@
 import calculateDaysLeft from "./../../calculateDaysLeft";
 
 const PracticalWorksIM = [
-  // {
-  //   classType: "Практична робота №1 (IM)",
-  //   textWork: "Напишіть есе на 150 слів про своє улюблене хобі.",
-  //   countingDays: calculateDaysLeft("04.01.2022"), // Дата сдачи задания
-  // },
+  {
+    classType: "Практична робота №1 (IM)",
+    textWork: "Читати та перекладати Unit 13-A\nTask 2-7 (з 8 по 10)",
+
+    countingDays: calculateDaysLeft("23.02.2023"), // Дата сдачи задания
+  },
 ];
 
 export { PracticalWorksIM };
