@@ -23,10 +23,19 @@ const PracticalWorksIM = [
   },
   {
     classType: "Практична робота №4",
-    textWork: "Unit 14А\nТаск 2-6 (23-24)\nExercise 1-3 (31-32)",
+    textWork: "Unit 14А\nТаsк 2-6 (23-24)\nExercise 1-3 (31-32)",
 
     countingDays: calculateDaysLeft("16.03.2023"), // Дата сдачи задания
   },
+  {
+    classType: "Практична робота №4",
+    textWork: "Unit 14B\nTask 7-10 p 24-26\nExercise 12,13 p 28",
+
+    countingDays: calculateDaysLeft("23.03.2023"), // Дата сдачи задания
+  },
+  
+  
+, 
 ];
 
 export { PracticalWorksIM };
