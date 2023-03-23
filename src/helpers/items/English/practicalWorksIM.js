@@ -29,7 +29,7 @@ const PracticalWorksIM = [
   },
   {
     classType: "Практична робота №4",
-    textWork: "Unit 14B\nTask 7-10 p 24-26\nExercise 12,13 p 28",
+    textWork: "Unit 14B\nTask 7-10 p 24-26\nExercise 12,13 p 28\nНа парі ми робили :\n14 на сторінці 21\nЗавдання з 1 по 4 сторінка 31)",
 
     countingDays: calculateDaysLeft("23.03.2023"), // Дата сдачи задания
   },
