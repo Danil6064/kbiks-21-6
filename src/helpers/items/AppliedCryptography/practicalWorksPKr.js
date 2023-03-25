@@ -1,11 +1,11 @@
 import calculateDaysLeft from "./../../calculateDaysLeft";
 
 const PracticalWorksPKr = [
-  // {
-  //   classType: "Практична робота №1 (PKr)",
-  //   textWork: "Напишіть есе на 150 слів про своє улюблене хобі.",
-  //   countingDays: calculateDaysLeft("04.01.2022"), // Дата сдачи задания
-  // },
+   {
+     classType: "Практична робота №1",
+     textWork: "Зробіть практичну роботу №1, завдання знаходиться в класрумі",
+     countingDays: calculateDaysLeft("26.03.2023"), // Дата сдачи задания
+   },
 ];
 
 export { PracticalWorksPKr };
