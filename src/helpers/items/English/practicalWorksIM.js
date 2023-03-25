@@ -28,12 +28,17 @@ const PracticalWorksIM = [
     countingDays: calculateDaysLeft("16.03.2023"), // Дата сдачи задания
   },
   {
-    classType: "Практична робота №4",
-    textWork: "Unit 14B\nTask 7-10 p 24-26\nExercise 12,13 p 28\nНа парі ми робили :\n14 на сторінці 21\nЗавдання з 1 по 4 сторінка 31)",
+    classType: "Практична робота №5",
+    textWork: "Unit 14B\nTask 7-10 p 24-26\nExercise 12,13 p 28\nНа парі ми робили :\n14 на сторінці 21\nЗавдання з 1 по 4 сторінка 31",
 
     countingDays: calculateDaysLeft("23.03.2023"), // Дата сдачи задания
   },
-  
+  {
+    classType: "Практична робота №6",
+    textWork: "Unit 14 reteling (14A or 14B)\nExercise 5-8 p 33-34\nTask 1 p 39 (learn the words)",
+
+    countingDays: calculateDaysLeft("30.03.2023"), // Дата сдачи задания
+  },
   
 , 
 ];
