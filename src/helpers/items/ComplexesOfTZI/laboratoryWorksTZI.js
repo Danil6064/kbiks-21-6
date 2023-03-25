@@ -1,11 +1,11 @@
 import calculateDaysLeft from "../../calculateDaysLeft";
 
 const LaboratoryWorksTZI = [
-  // {
-  //   classType: "Лабораторна работа №1 (TZI)",
-  //   textWork: "",
-  //   countingDays: calculateDaysLeft("15.12.2022"), // Дата сдачи задания
-  // },
+   {
+     classType: "Лабораторна работа №1",
+     textWork: "Всі необхідні матеріали знаходяться в класрумі",
+     countingDays: calculateDaysLeft("10.04.2023"), // Дата сдачи задания
+   },
 ];
 
 export { LaboratoryWorksTZI };
