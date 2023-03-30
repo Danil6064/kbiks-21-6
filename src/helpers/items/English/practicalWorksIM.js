@@ -35,7 +35,7 @@ const PracticalWorksIM = [
   },
   {
     classType: "Практична робота №6",
-    textWork: "Unit 14 reteling (14A or 14B)\nExercise 5-8 p 33-34\nTask 1 p 39 (learn the words)",
+    textWork: "Unit 14 reteling (14A or 14B)\nExercise 5-8 p 33-34\nTask 1 p 20 (learn the words)",
 
     countingDays: calculateDaysLeft("30.03.2023"), // Дата сдачи задания
   },
