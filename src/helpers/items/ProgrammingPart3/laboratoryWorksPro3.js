@@ -1,5 +1,3 @@
-import calculateDaysLeft from "./../../calculateDaysLeft";
-
 const LaboratoryWorksPro3 = [
    {
      classType: "Лабораторна работа №1",
@@ -8,4 +6,22 @@ const LaboratoryWorksPro3 = [
    },
 ];
 
-export { LaboratoryWorksPro3 };
+function renderTextWork(textWork) {
+  return {__html: textWork};
+}
+
+function App() {
+  return (
+    <div>
+      {LaboratoryWorksPro3.map((item, index) => (
+        <div key={index}>
+          <h2>{item.classType}</h2>
+          <p dangerouslySetInnerHTML={renderTextWork(item.textWork)} />
+          <p>{item.countingDays} днів до дедлайну</p>
+        </div>
+      ))}
+    </div>
+  );
+}
+
+export default App;
