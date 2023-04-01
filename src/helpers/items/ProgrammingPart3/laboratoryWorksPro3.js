@@ -1,13 +1,9 @@
 import calculateDaysLeft from "./../../calculateDaysLeft";
 
-function createHyperlink(url, text = "тут") {
-  return `<a href="${https://drive.google.com/file/d/1QfIt_HGDbFxyWkKeHnE0NVqv4uyyWJ-f/view?usp=share_link}">${text}</a>`;
-}
-
 const LaboratoryWorksPro3 = [
    {
      classType: "Лабораторна работа №1",
-     textWork: `Якщо роботу здати до 04.04.2023, то є шанс отримати додатковий бал\nВам потрібно зробити Лабораторну роботу №1. Матеріали за посиланням - ${createHyperlink("https://drive.google.com/file/d/1QfIt_HGDbFxyWkKeHnE0NVqv4uyyWJ-f/view?usp=share_link")}\nЗдати завдання потрібно на дл нуре.`,
+     textWork: `Якщо роботу здати до 04.04.2023, то є шанс отримати додатковий бал\nВам потрібно зробити Лабораторну роботу №1. Матеріали за посиланням\nЗдати завдання потрібно на дл нуре.`,
      countingDays: calculateDaysLeft("10.06.2023"), // Дата сдачи завдання
    },
 ];
