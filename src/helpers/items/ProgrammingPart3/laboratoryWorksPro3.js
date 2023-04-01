@@ -1,3 +1,4 @@
+import calculateDaysLeft from "./../../calculateDaysLeft";
 const link = '<a href="https://www.google.com" target="_blank">Google</a>';
 
 const LaboratoryWorksPro3 = [
