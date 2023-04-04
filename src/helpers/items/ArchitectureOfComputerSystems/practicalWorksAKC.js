@@ -10,6 +10,7 @@ const PracticalWorksAKC = [
    {
      classType: "Корисні файли",
      textWork: <div dangerouslySetInnerHTML={{ __html: `${main_manual_1}\n${main_manual_2` }} />,
+     countingDays:,
    },
    {
      classType: "Практична робота №1(як консультація)",
