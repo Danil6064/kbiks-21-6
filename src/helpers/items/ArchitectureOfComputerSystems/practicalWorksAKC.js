@@ -9,7 +9,7 @@ const pz_2_3 = '<a href="https://docs.google.com/document/d/11ptKmy76ttYHqR7hRPL
 const PracticalWorksAKC = [
    {
      classType: "Корисні файли",
-     textWork: <div dangerouslySetInnerHTML={{ __html: `${main_manual_1}\n${main_manual_2` }} />,
+     textWork: <div dangerouslySetInnerHTML={{ __html: `${main_manual_1}\n${main_manual_2}` }} />,
     countingDays: calculateDaysLeft("09.06.2023"), // Дата сдачи задания
    },
    {
