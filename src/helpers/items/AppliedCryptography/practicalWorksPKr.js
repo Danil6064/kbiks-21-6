@@ -5,7 +5,7 @@ const pz_1_manual = '<a href="https://drive.google.com/file/d/1nZ1ncyUfQuQHRNDzL
 const PracticalWorksPKr = [
    {
      classType: "Практична робота №1",
-     textWork: <div dangerouslySetInnerHTML={{ __html:Зробіть практичну роботу №1, завдання знаходиться за посиланням` ${lb_1_manual}` }} />,
+     textWork: <div dangerouslySetInnerHTML={{ __html: 'Зробіть практичну роботу №1, завдання знаходиться за посиланням` ${lb_1_manual}` }} />,
      countingDays: calculateDaysLeft("26.03.2023"), // Дата сдачи задания
    },
 ];
