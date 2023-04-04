@@ -1,6 +1,6 @@
 import calculateDaysLeft from "../../calculateDaysLeft";
 
-const lb_1_manual_1 = '<a href="https://classroom.google.com/c/NjAwNjQ1MjU2MTI3/a/NjAwNjQ2MzY4OTkx/details" target="_blank">Завдання (вхідні данні)</a>';
+const lb_1_manual_1 = '<a href="https://docs.google.com/document/d/1jliEJoz5B3lEynyb0N1eSNjRD4z7dhC5jH4kzlezTAc/edit" target="_blank">Завдання (вхідні данні)</a>';
 const lb_1_manual_2 = '<a href="https://classroom.google.com/c/NjAwNjQ1MjU2MTI3/a/NjAwNjQ2MzY4OTkx/details" target="_blank">Лабораторна робота № 1</a>';
 const lb_1_application_1 = '<a href="https://classroom.google.com/c/NjAwNjQ1MjU2MTI3/a/NjAwNjQ2MzY4OTkx/details" target="_blank">Приклад №1</a>';
 const lb_1_application_2 = '<a href="https://classroom.google.com/c/NjAwNjQ1MjU2MTI3/a/NjAwNjQ2MzY4OTkx/details" target="_blank">Приклад №2</a>';
