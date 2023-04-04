@@ -4,7 +4,7 @@ const lb_1_manual_1 = '<a href="https://classroom.google.com/c/NjAwNjQ1MjU2MTI3/
 const lb_1_manual_2 = '<a href="https://classroom.google.com/c/NjAwNjQ1MjU2MTI3/a/NjAwNjQ2MzY4OTkx/details" target="_blank">Лабораторна робота № 1</a>';
 const lb_1_application_1 = '<a href="https://classroom.google.com/c/NjAwNjQ1MjU2MTI3/a/NjAwNjQ2MzY4OTkx/details" target="_blank">Приклад №1</a>';
 const lb_1_application_2 = '<a href="https://classroom.google.com/c/NjAwNjQ1MjU2MTI3/a/NjAwNjQ2MzY4OTkx/details" target="_blank">Приклад №2</a>';
-const lb_1_application_2 = '<a href="https://classroom.google.com/c/NjAwNjQ1MjU2MTI3/a/NjAwNjQ2MzY4OTkx/details" target="_blank">Приклад №2</a>';
+const lb_1_application_3 = '<a href="https://classroom.google.com/c/NjAwNjQ1MjU2MTI3/a/NjAwNjQ2MzY4OTkx/details" target="_blank">Приклад №2</a>';
 
 const LaboratoryWorksTZI = [
    {
