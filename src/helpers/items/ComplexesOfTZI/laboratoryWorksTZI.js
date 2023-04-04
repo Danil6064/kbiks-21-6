@@ -5,7 +5,7 @@ const lb_1_manual_2 = '<a href="https://docs.google.com/document/d/1hEappZfA0TJ1
 const lb_1_application_1 = '<a href="https://docs.google.com/document/d/1FnZnROXhPJwSpe3Yflv8gnl-i5IuOblL/edit?usp=share_link&ouid=109219041095382126673&rtpof=true&sd=true" target="_blank">Приклад №1</a>';
 const lb_1_application_2 = '<a href="https://docs.google.com/document/d/17RzB7eyMw1ppMBYTIqsiAU08dlLnEarh/edit?usp=share_link&ouid=109219041095382126673&rtpof=true&sd=true" target="_blank">Приклад №2</a>';
 const lb_1_application_3 = '<a href="https://docs.google.com/document/d/1FnZnROXhPJwSpe3Yflv8gnl-i5IuOblL/edit?usp=share_link&ouid=109219041095382126673&rtpof=true&sd=true" target="_blank">Оформлення роботи</a>';
-const lb_1_application_4 = '<a href="https://drive.google.com/file/d/1z0CtN4mcvgs6SqwzaBMuO2CoTjWfpC0h/view?usp=share_link" target="_blank">3_Досл_АФ_А5ред</a>';
+const lb_1_application_4 =  '<a href="https://drive.google.com/file/d/1z0CtN4mcvgs6SqwzaBMuO2CoTjWfpC0h/view?usp=share_link" target="_blank">3_Досл_АФ_А5ред</a>';
 
 
 const LaboratoryWorksTZI = [
