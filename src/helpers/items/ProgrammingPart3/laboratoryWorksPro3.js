@@ -10,3 +10,4 @@ const LaboratoryWorksPro3 = [
 ];
 
 export { LaboratoryWorksPro3 };
+
