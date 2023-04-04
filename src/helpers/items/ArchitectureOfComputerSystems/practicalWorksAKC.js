@@ -1,9 +1,9 @@
 import calculateDaysLeft from "./../../calculateDaysLeft";
 
-const main_manual_1 = '<a href="https://drive.google.com/drive/folders/1EJnl-70kpiTZ7Nw8uhmPMK8Jm5tMgaVg?usp=share_link">Збірник файлів українською</a>';
-const main_manual_2 = '<a href="https://drive.google.com/drive/folders/10UweRiLKjtEVjETi4hzilY3xwcv7-RRr?usp=share_link">Збірник файлів російською</a>';
-const pz_1_2 = '<a href="https://docs.google.com/document/d/1ONzoJ9YkbpvWwkB8bl3QFCl1k6eKj6xh/edit?usp=share_link&ouid=109219041095382126673&rtpof=true&sd=true"> Методичка для 1 та 2 пз</a>';
-const pz_2_3 = '<a href="https://docs.google.com/document/d/11ptKmy76ttYHqR7hRPLmWef7ihhkjCs9/edit?usp=share_link&ouid=109219041095382126673&rtpof=true&sd=truehttps://docs.google.com/document/d/11ptKmy76ttYHqR7hRPLmWef7ihhkjCs9/edit?usp=share_link&ouid=109219041095382126673&rtpof=true&sd=true"> Методичка для 3 та 4 пз</a>';
+const main_manual_1 = '<a href="https://drive.google.com/drive/folders/1EJnl-70kpiTZ7Nw8uhmPMK8Jm5tMgaVg?usp=share_link" target="_blank">Збірник файлів українською</a>';
+const main_manual_2 = '<a href="https://drive.google.com/drive/folders/10UweRiLKjtEVjETi4hzilY3xwcv7-RRr?usp=share_link" target="_blank">Збірник файлів російською</a>';
+const pz_1_2 = '<a href="https://docs.google.com/document/d/1ONzoJ9YkbpvWwkB8bl3QFCl1k6eKj6xh/edit?usp=share_link&ouid=109219041095382126673&rtpof=true&sd=true" target="_blank"> Методичка для 1 та 2 пз</a>';
+const pz_2_3 = '<a href="https://docs.google.com/document/d/11ptKmy76ttYHqR7hRPLmWef7ihhkjCs9/edit?usp=share_link&ouid=109219041095382126673&rtpof=true&sd=truehttps://docs.google.com/document/d/11ptKmy76ttYHqR7hRPLmWef7ihhkjCs9/edit?usp=share_link&ouid=109219041095382126673&rtpof=true&sd=true" target="_blank"> Методичка для 3 та 4 пз</a>';
 
 
 const PracticalWorksAKC = [
