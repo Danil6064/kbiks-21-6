@@ -45,7 +45,12 @@ const PracticalWorksIM = [
 
     countingDays: calculateDaysLeft("13.04.2023"), // Дата сдачи задания
   },
-, 
+    {
+    classType: "Практична робота №8",
+    textWork: "\nНа парі робили Exercise 13 p-36",
+
+    countingDays: calculateDaysLeft("13.04.2023"), // Дата сдачи задания
+  }, 
 ];
 
 export { PracticalWorksIM };
