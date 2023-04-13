@@ -47,7 +47,7 @@ const PracticalWorksIM = [
   },
     {
     classType: "Практична робота №8",
-    textWork: "\nНа парі робили Exercise 13 p-36",
+    textWork: "Vocabulary Bank Unit 15 p-39\nTEXT 15 A p-40-42\nTasks 1-6 p-42-44\nНа парі робили Exercise 13 p-36",
 
     countingDays: calculateDaysLeft("13.04.2023"), // Дата сдачи задания
   }, 
