@@ -51,6 +51,12 @@ const PracticalWorksIM = [
 
     countingDays: calculateDaysLeft("20.04.2023"), // Дата сдачи задания
   }, 
+      {
+    classType: "Практична робота №9",
+    textWork: "TEXT 15 B. PROCEDURAL PROGRAMMING p-44\nTask 8 - 12 page = 46 - 49\nExercise 2-3 page 49\nНа парі робили Exercise 1,4 page = 48-49",
+
+    countingDays: calculateDaysLeft("27.04.2023"), // Дата сдачи задания
+  }, 
 ];
 
 export { PracticalWorksIM };
