@@ -29,6 +29,11 @@ const LaboratoryWorksTZI = [
     textWork: "Задання знаходиться в класрумі",
     countingDays: calculateDaysLeft("04.05.2023"), // Дата сдачи задания,
    },
+   {
+    classType: "Лабораторна работа №4",
+    textWork: "Задання знаходиться в класрумі",
+    countingDays: calculateDaysLeft("18.05.2023"), // Дата сдачи задания,
+   },
 ];
 
 export { LaboratoryWorksTZI };
