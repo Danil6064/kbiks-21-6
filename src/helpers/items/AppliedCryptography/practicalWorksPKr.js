@@ -13,6 +13,11 @@ const PracticalWorksPKr = [
      textWork: <div dangerouslySetInnerHTML={{ __html: `Зробіть практичну роботу №2, завдання знаходиться в класрумі (потрібно виконати три задачи з "Задачі для самостійного розв’язання")` }} />,
      countingDays: calculateDaysLeft("26.03.2023"), // Дата сдачи задания
    },
+      {
+     classType: "Практична робота №3",
+     textWork: <div dangerouslySetInnerHTML={{ __html: `Зробіть практичну роботу №3, завдання знаходиться в класрумі` }} />,
+     countingDays: calculateDaysLeft("31.06.2023"), // Дата сдачи задания
+   },
 ];
 
 export { PracticalWorksPKr };
