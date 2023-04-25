@@ -7,7 +7,11 @@ const LaboratoryWorksPKr = [
    {
      classType: "Лабораторна работа №1",
      textWork: <div dangerouslySetInnerHTML={{ __html: `Зробити лб№1 за посиланням, також є книга, яка може допомогти з завданням ${lb_1_manual} + \n${lb_1_manual_2}` }} />,
-
+     countingDays: calculateDaysLeft("31.05.2023"), // Дата сдачи задания
+   },
+   {
+     classType: "Лабораторна работа №2",
+     textWork: <div dangerouslySetInnerHTML={{ __html: `Зробити лб№2` }} />,
      countingDays: calculateDaysLeft("31.05.2023"), // Дата сдачи задания
    },
 ];
