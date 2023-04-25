@@ -11,6 +11,11 @@ const LaboratoryWorksPro3 = [
      textWork: <div dangerouslySetInnerHTML={{ __html: `Якщо роботу здати до 04.04.2023, то є шанс отримати додатковий бал\nВам потрібно зробити Лабораторну роботу №1. Матеріали за посиланням ${lb_1_manual}, ${lb_1_additionalFiles_1}, ${lb_1_additionalFiles_2}\nЗдати завдання потрібно на дл нуре.` }} />,
      countingDays: calculateDaysLeft("10.06.2023"), // Дата сдачі завдання
    },
+{
+     classType: "Лабораторна работа №2",
+     textWork: <div dangerouslySetInnerHTML={{ __html: `Якщо роботу здати до 02.05.2023, то є шанс отримати додатковий бал\nВам потрібно зробити Лабораторну роботу №2.\nЗдати завдання потрібно на дл нуре.` }} />,
+     countingDays: calculateDaysLeft("10.06.2023"), // Дата сдачі завдання
+   },
 ];
 
 export { LaboratoryWorksPro3 };
