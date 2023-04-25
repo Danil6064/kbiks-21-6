@@ -14,6 +14,16 @@ const PracticalWorksOOP = [
      textWork:<div dangerouslySetInnerHTML={{ __html: ` Вам потрібно зробити завдання, матеріали знаходяться за посиланням ${pz_2_manual}` }} />,
      countingDays: calculateDaysLeft("19.04.2023"), // Дата сдачи задания
    },
+   {
+     classType: "Практична робота №3",
+     textWork:<div dangerouslySetInnerHTML={{ __html: ` Вам потрібно зробити завдання, матеріали знаходяться на пошті` }} />,
+     countingDays: calculateDaysLeft("17.05.2023"), // Дата сдачи задания
+   },
+   {
+     classType: "Практична робота №4",
+     textWork:<div dangerouslySetInnerHTML={{ __html: ` Вам потрібно зробити завдання, матеріали знаходяться на пошті` }} />,
+     countingDays: calculateDaysLeft("17.05.2023"), // Дата сдачи задания
+   },
 ];
 
 export { PracticalWorksOOP };
