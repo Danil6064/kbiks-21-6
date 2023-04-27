@@ -61,7 +61,7 @@ const PracticalWorksIM = [
     classType: "Практична робота №10",
     textWork: "Переказ одного з тексту 15A або 15B.\nПисьмо на 58 сторінці\nВправа на 7 на сторінці 51 (с 1 по 18 речення)",
 
-    countingDays: calculateDaysLeft("27.04.2023"), // Дата сдачи задания
+    countingDays: calculateDaysLeft("11.05.2023"), // Дата сдачи задания
   }, 
 ];
 
