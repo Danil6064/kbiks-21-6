@@ -20,6 +20,6 @@ const LaboratoryWorksIKC = [
      classType: "Лабораторна работа №4",
      textWork: "Потрібно зробити лб№4",
      countingDays: calculateDaysLeft("31.06.2023"), // Дата сдачи задания
-   },
+   }
 ];
 export { LaboratoryWorksIKC };
