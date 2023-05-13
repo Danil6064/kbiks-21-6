@@ -27,6 +27,15 @@ const PracticalWorksAKC = [
      textWork: <div dangerouslySetInnerHTML={{ __html: `Вирішити завдання №1 свого варіанту за посиланням ${pz_2_3}` }} />,
      countingDays: calculateDaysLeft("10.04.2023"), // Дата сдачи задания
    },
+   {
+     classType: "Контрольна робота №1",
+     textWork: <div dangerouslySetInnerHTML={{ __html: `Якщо ви не писали кр№1 у вас є можливість написати їх на останній лб, чи пз, додатково ще будуть консультації для написання кр` }} />,
+     countingDays: calculateDaysLeft("31.05.2023"), // Дата сдачи задания
+   },
+     classType: "Контрольна робота №2",
+     textWork: <div dangerouslySetInnerHTML={{ __html: `Якщо ви не писали кр№2 у вас є можливість написати їх на останній лб, чи пз, додатково ще будуть консультації для написання кр` }} />,
+     countingDays: calculateDaysLeft("31.05.2023"), // Дата сдачи задания
+   },
 ];
 
 export { PracticalWorksAKC };
