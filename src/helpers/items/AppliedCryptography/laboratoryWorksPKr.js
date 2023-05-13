@@ -14,6 +14,16 @@ const LaboratoryWorksPKr = [
      textWork: <div dangerouslySetInnerHTML={{ __html: `Зробити лб№2` }} />,
      countingDays: calculateDaysLeft("31.05.2023"), // Дата сдачи задания
    },
+   {
+     classType: "Лабораторна работа №2",
+     textWork: <div dangerouslySetInnerHTML={{ __html: `Зробити лб№3` }} />,
+     countingDays: calculateDaysLeft("31.05.2023"), // Дата сдачи задания
+   },
+   {
+     classType: "Лабораторна работа №2",
+     textWork: <div dangerouslySetInnerHTML={{ __html: `Зробити лб№4` }} />,
+     countingDays: calculateDaysLeft("31.05.2023"), // Дата сдачи задания
+   },
 ];
 
 export { LaboratoryWorksPKr };
