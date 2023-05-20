@@ -17,6 +17,11 @@ const LaboratoryWorksInfT = [
      textWork: "Вам потрібно зробити лб№2 (методичка находиться на дл нуре)",
      countingDays: calculateDaysLeft("11.06.2023"), // Дата сдачи задания
    },
+   {
+     classType: "Лабораторна работа №3",
+     textWork: "Вам потрібно зробити лб№3 (методичка находиться на дл нуре)",
+     countingDays: calculateDaysLeft("11.06.2023"), // Дата сдачи задания
+   },
 ];
 
 export { LaboratoryWorksInfT };
