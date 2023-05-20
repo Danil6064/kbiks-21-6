@@ -29,11 +29,11 @@ const PracticalWorksOOP = [
      textWork:<div dangerouslySetInnerHTML={{ __html: ` Вам потрібно зробити завдання, матеріали знаходяться на пошті` }} />,
      countingDays: calculateDaysLeft("31.05.2023"), // Дата сдачи задания
    },
-   {
-     classType: "Практична робота №6,
-     textWork:<div dangerouslySetInnerHTML={{ __html: ` Вам потрібно зробити завдання, матеріали знаходяться на пошті` }} />,
-     countingDays: calculateDaysLeft("31.05.2023"), // Дата сдачи задания
-   },
+{
+  classType: "Практична робота №6",
+  textWork: <div dangerouslySetInnerHTML={{ __html: ` Вам потрібно зробити завдання, матеріали знаходяться на пошті` }} />,
+  countingDays: calculateDaysLeft("31.05.2023"), // Дата сдачи задания
+}
 ];
 
 export { PracticalWorksOOP };
