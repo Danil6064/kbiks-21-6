@@ -16,6 +16,11 @@ const PracticalWorksTZI = [
      textWork: "Зробити пз№4 та надіслати в класрумі",
      countingDays: calculateDaysLeft("15.05.2023"), // Дата сдачи задания
    },
+   {
+     classType: "Контрольна робота №1",
+     textWork: "Потрібно зробити кр№1",
+     countingDays: calculateDaysLeft("08.05.2023"), // Дата сдачи задания
+   },
 ];
 
 export { PracticalWorksTZI };
