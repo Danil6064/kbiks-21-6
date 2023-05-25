@@ -63,9 +63,15 @@ const PracticalWorksIM = [
 
     countingDays: calculateDaysLeft("11.05.2023"), // Дата сдачи задания
   }, 
-        {
+  {
     classType: "Практична робота №11",
     textWork: "Unit 15 Exercise 8 (з 12 по 20) сторінка 53, Exercise 9 (з 1 по22) сторінка 53\nUnit16, Text 16A Tasks 2-7 сторінки 63-66",
+
+    countingDays: calculateDaysLeft("25.05.2023"), // Дата сдачи задания
+  }, 
+  {
+    classType: "Практична робота №12",
+    textWork: "Text 16B + переказ одного з тексту (16A / 16B), Exercise 10 сторінка 54\nTask 1 (слова) сторінка 59\Exercise 13 (воно на справді 11, там помилка) сторінка 55 (з 1 по 18 речення)",
 
     countingDays: calculateDaysLeft("25.05.2023"), // Дата сдачи задания
   }, 
