@@ -73,7 +73,7 @@ const PracticalWorksIM = [
     classType: "Практична робота №12",
     textWork: "Text 16B + переказ одного з тексту (16A / 16B), Exercise 10 сторінка 54\nTask 1 (слова) сторінка 59\Exercise 13 (воно на справді 11, там помилка) сторінка 55 (з 1 по 18 речення)",
 
-    countingDays: calculateDaysLeft("25.05.2023"), // Дата сдачи задания
+    countingDays: calculateDaysLeft("08.06.2023"), // Дата сдачи задания
   }, 
 ];
 
